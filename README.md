@@ -8,7 +8,7 @@
 
 
 
-<h2>Screenshots of the Project📸</h2>
+<h2>Preview📸</h2>
 <br>
 
 
