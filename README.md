@@ -10,7 +10,7 @@
 
 <h2>Screenshots of the Project📸</h2>
 <br>
-<h3 align='center'>Home Page 🏡</h3>
+
 
 <div align='center'>
 <img src='https://user-images.githubusercontent.com/105128267/218077675-f50ac9ae-8d2c-4196-aed8-f4490e142960.png'/>
